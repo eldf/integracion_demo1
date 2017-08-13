@@ -2,6 +2,15 @@
 public class C_Servicio {
 	
 	String Nombre;
+	String Descripcion;
+
+	public String getDescripcion() {
+		return Descripcion;
+	}
+
+	public void setDescripcion(String descripcion) {
+		Descripcion = descripcion;
+	}
 
 	public String getNombre() {
 		return Nombre;
