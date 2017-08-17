@@ -3,6 +3,7 @@ package eafit.integracion;
 public class C_Validar {
 	
 	String cadena;
+	Tipo tipo;
 	
 	boolean ValidarRqUid() {
 		
