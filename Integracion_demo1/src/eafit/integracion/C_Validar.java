@@ -1,6 +1,6 @@
 package eafit.integracion;
 
-public class C_Validar {
+public class C_Validar1 {
 	
 	String cadena;
 	Tipo tipo;
